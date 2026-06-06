@@ -16,3 +16,7 @@ curl --location "https://private.au-syd.ml.cloud.ibm.com/ml/v4/deployments/019e9
 		     }
 		 ]
 }'
+
+
+
+The Endpoint link of the deployed project is-https://au-syd.ml.cloud.ibm.com/ml/v4/deployments/019e9c82-a53a-7551-a806-e963c84aa6ee/predictions?version=2021-05-01
